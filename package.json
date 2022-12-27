@@ -1,0 +1,25 @@
+{
+  "name": "rest-api---crud-operations-with-node-js--express-and-mongodb",
+  "version": "1.0.0",
+  "description": "This the project i have done while i was studying MongoDb and Epress operations(MERN Stack)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndahimana154/REST-API---CRUD-Operations-with-Node-JS--Express-and-MongoDB.git"
+  },
+  "author": "ndahimana154",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndahimana154/REST-API---CRUD-Operations-with-Node-JS--Express-and-MongoDB/issues"
+  },
+  "homepage": "https://github.com/ndahimana154/REST-API---CRUD-Operations-with-Node-JS--Express-and-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
